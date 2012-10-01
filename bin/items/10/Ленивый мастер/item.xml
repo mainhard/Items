@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<content><![CDATA[<img align="left" src="./items/COMPONENT_TYPE/COMPONENT_NAME/Fable.png"/>
+
+
+
+
+
+
+
+
+
+
+
+
+	<i><b>На голову: </b></i>
+	
+	<font color="COLOR_ITEM_NAME"><b>Heart Sunglasses </b></font>
+	-<font color="COLOR_ITEM_PART">Материал Heart Sunglasses(7)</font> 	
+		Падает из <font color="COLOR_ITEM_DROPPER">Pupa</font> (gef_fuld04) 
+	-<font color="COLOR_ITEM_PART">Shining Scale(20)</font> 
+		Падает из <font color="COLOR_ITEM_DROPPER">Snake</font> (pay_fild02) 
+
+	<font color="COLOR_ITEM_NAME"><b>Ski Goggles </b></font>
+	-<font color="COLOR_ITEM_PART">Материал Ski Goggles(7) </font>
+		Падает из <font color="COLOR_ITEM_DROPPER">Chonchon </font>(moc_fild18) 
+	-<font color="COLOR_ITEM_PART">Black Ladle(20) </font>	
+		Падает из <font color="COLOR_ITEM_DROPPER">Thief Bug Egg </font>(prt_sewb1) 
+
+	<font color="COLOR_ITEM_NAME"><b>Bride Veil </b></font>
+	-<font color="COLOR_ITEM_PART">Материал Bride Veil(10) </font>
+		Падает из <font color="COLOR_ITEM_DROPPER">Salamander </font>(thor_v03) 
+	-<font color="COLOR_ITEM_PART">Базальт(2) </font>
+		Можно вырастить из <font color="COLOR_ITEM_DROPPER">Ятобы </font>
+
+	<font color="COLOR_ITEM_NAME"><b>Flying Devil </b></font>
+	-<font color="COLOR_ITEM_PART">Материал Flying Devil(35) 	</font>
+		Падает из <font color="COLOR_ITEM_DROPPER">Harpy </font>(yuno_fild07) 
+	-<font color="COLOR_ITEM_PART">Teddy Bear Card(14) </font>
+		Падает из <font color="COLOR_ITEM_DROPPER">Teddy Bear </font>(ein_dun02) 
+	-<font color="COLOR_ITEM_PART">Хлопок(2) 	</font>
+		Можно вырастить из <font color="COLOR_ITEM_DROPPER">Асфоделины </font>
+	-<font color="COLOR_ITEM_PART">Flame Skull Card(3) </font>
+		Падает из <font color="COLOR_ITEM_DROPPER">Flame Skull </font>(abbey03) 
+
+	<font color="COLOR_ITEM_NAME"><b>Flying Sun </b></font>
+	-Материал Flying Sun(35) 
+		Падает из Goat(ein_fild06) 
+	-Red Thorn Ffuit(72) 
+		Падает из Hodremlin(ra_san03) 
+	-Хлопок(2) 	
+		Можно вырастить из Асфоделины 
+	-Flame Skull Card(3) 
+		Падает из Flame Skull(abbey03) 
+
+	<font color="COLOR_ITEM_NAME"><b>Kitty Ears </b></font>
+	-Материал Kitty Ears(7) 
+		Падает из Leaf Cat(ayo_dun01) 
+	-Glossy Hair(50) 
+		Падает из Miabi Ningyo(ama_dun01) 
+	-Пластилин(3) 
+		Можно вырастить из Секвойи 
+
+	<font color="COLOR_ITEM_NAME"><b>Wizard Beard </b></font>
+	-Материал Wizard Beard(10)
+		Падает из Shelter(tha_t11) 
+	-Мрамор(2)
+		Можно вырастить из Меч-травы 
+
+	<font color="COLOR_ITEM_NAME"><b>Fox Tail </b></font>
+	-Материал Fox Tail(15) 
+		Падает из Nine Tail(pay_fild11) 
+	-Rusty Iron(120) 
+		Падает из Scorpion(moc_fild08) 
+	-Кальций(2) 
+		Можно вырастить из Гроздовника 
+
+	<font color="COLOR_ITEM_NAME"><b>Kitty Tail </b></font>
+	-Материал Kitty Tail(15) 
+		Падает из Dragon Tail(pay_fild11) 
+	-Ancient Lips(95) 
+		Падает из Merman(iz_dun04) 
+	-Кальций(2) 
+		Можно вырастить из Гроздовника 
+
+	<font color="COLOR_ITEM_NAME"><b>Vip mask </b></font>
+	-Материал Vip mask(50) 	
+		Падает из Осадный поринг(hu_dun02) 
+	-Чешуя дракона(5) 
+		Падает из Zmey Gorinych(mosk_dun03) 
+	-Диталлоуимидазолинийметилсульфат(2) 
+		Можно вырастить из Палисандра 
+	-Халькозин(8) 
+		Можно вырастить из Росянки круглолистой 
+	-Рений(1) 
+		Можно вырастить из Гастродии высокой 
+	-Яшма(2) 
+		Можно вырастить из Самшита 
+	-Колбаса(1) 
+		Можно вырастить из Колбасного дерева
+	
+		
+	<i><b>Броня:  </b></i>
+	
+	<font color="COLOR_ITEM_NAME"><b>Winter Coat </b></font>
+	-Материал Winter Coat(15) 
+		Падает из Blue Picky(cmd_field) 
+	-Frill(75) 	
+		Падает из Frilldora(cmd_fild05) 
+	-Хлопок(3) 	
+		Можно вырастить из Асфоделины 
+
+	<font color="COLOR_ITEM_NAME"><b>Summer Coat </b></font>
+	-Материал Summer Coat(15) 
+		Падает из Red Picky(cmd_field) 
+	-Galion Card(10) 
+		Падает из Galion(ra_fild03) 
+	-Хлопок(7) 	
+		Можно вырастить из Асфоделины 
+
+	<font color="COLOR_ITEM_NAME"><b>Spring Coat </b></font>
+	-Материал Spring Coat(15) 
+		Падает из Green Picky(cmd_field) 
+	-Galion Card(10) 
+		Падает из Galion(ra_fild03) 
+	-Хлопок(7) 	
+		Можно вырастить из Асфоделины 
+
+	<font color="COLOR_ITEM_NAME"><b>Autumn Coat </b></font>
+	-Материал Autumn Coat(15) 
+		Падает из Purple Picky(cmd_field) 
+	-Singing Plant(60) 
+		Падает из Metaller(moc_fild09) 
+	-Хлопок(3) 
+		Можно вырастить из Асфоделины 
+
+	<font color="COLOR_ITEM_NAME"><b>Lucius's Fierce Armor of Volcano </b></font>
+	-Материал Lucius's Fierce Armor of Volcano(7) 	
+		Падает из Drops(ra_fild11) 
+
+	<font color="COLOR_ITEM_NAME"><b>Saphien's Armor of Ocean </b></font>
+	-Материал Saphien's Armor of Ocean(15) 
+		Падает из Dokebi(pay_fild10) 
+	-Foolishness of the Blind(75) 
+		Падает из Hode(moc_fild17) 
+	-Хлопок(3) 
+		Можно вырастить из Асфоделины 
+
+	<font color="COLOR_ITEM_NAME"><b>Claytos Cracking Earth Armor </b></font>
+	-Материал Claytos Cracking Earth Armor(45) 
+		Падает из Mermaid(Ro2) 
+	-Incubus Horn(50) 
+		Падает из Incubus(gefenia03) 
+	-Хлопок(3) 
+		Можно вырастить из Асфоделины 
+	-Доломит(1)	
+		Можно вырастить из Платана 
+
+	<font color="COLOR_ITEM_NAME"><b>Aebeccee's Raging Typhoon Armor </b></font>
+	-Материал Aebeccee's Raging Typhoon Armor(45) 
+		Падает из Purple Mermaid(cmd_field) 
+	-Succubus Horn(50) 
+		Падает из Succubus(gefenia02) 
+	-Хлопок(3) 
+		Можно вырастить из Асфоделины 
+	-Доломит(1)	
+		Можно вырастить из Платана
+	
+		
+	<i><b>Аксессуары и сапоги: </b></i>
+	
+	<font color="COLOR_ITEM_NAME"><b>Sleipnir </b></font>
+	-Материал Sleipnir(7) 
+		Падает из Stem Worm(lhz_fild04) 
+	-Solid Husk(1) 
+		Падает из Beetle King(um_fild04) 
+	-Пластилин(3) 
+		Можно вырастить из Секвойи 
+
+	<font color="COLOR_ITEM_NAME"><b>Ring of Mages </b></font>
+	-Материал Ring of Mages(25) 
+		Падает из Tamruan(ayo_dun02) 
+	-Cloud Crumb(140) 
+		Падает из Evil Cloud Hermit(gon_dun03) 
+	-Изумруд(2) 
+		Можно вырастить из Рафлезии Арнольди 
+
+	<font color="COLOR_ITEM_NAME"><b>Brisingamen </b></font>
+	-Материал Brisingamen(25) 
+		Падает из Расхититель(gl_cas02) 
+	-Illusion Flower(140) 
+		Падает из Shining Plant(yggdrasil01) 
+	-Алмаз(2) 
+		Можно вырастить из Литопса 
+
+	<font color="COLOR_ITEM_NAME"><b>Megingjard </b></font>
+	-Материал Megingjard(25) 
+		Падает из Aliot(kh_dun02) 
+	-Retribution Card(35) 
+		Падает из Retribution(tha_t08) 
+	-Алмаз(2) 
+		Можно вырастить из Литопса 
+
+	<font color="COLOR_ITEM_NAME"><b>Lucky Ring </b></font>
+	-Материал Lucky Ring(25) 
+		Падает из Loli Ruri(nif_fild02) 
+	-Golden Ornament(77) 
+		Падает из Observation(tha_t12) 
+	-Рубин(2) 
+		Можно вырастить из Титана Арума 
+
+	<font color="COLOR_ITEM_NAME"><b>Ring of Long Live </b></font>
+	-Материал Ring of Long Live(25) 
+		Падает из Heater(tur_dun04) 
+	-Solid Peach(140) 
+		Падает из Live Peach Tree(gon_dun01) 
+	-Рубин(2) 
+		Можно вырастить из Титана Арума 
+
+	<font color="COLOR_ITEM_NAME"><b>Snicky Ring </b></font>
+	-Материал Snicky Ring(25) 
+		Падает из Assaulter(tur_dun04) 
+	-Straw Basket(190) 
+		Падает из Kraben(ayo_dun02) 
+	-Изумруд(2) 
+		Можно вырастить из Рафлезии Арнольди 
+
+	<font color="COLOR_ITEM_NAME"><b>Ring of Speed </b></font>
+	-Материал Ring of Speed(25) 
+		Падает из Воробей(Любой город) 
+	-Evil Card(650) 
+		Падает из Evil(Evil Room) 
+	-Алмаз(2) 
+		Можно вырастить из Литопса 
+	-Рубин(2) 
+		Можно вырастить из Титана Арума 
+
+	<font color="COLOR_ITEM_NAME"><b>Earring of Discernment </b></font>
+	-Материал Earring of Discernment(25) 
+		Падает из Снегирь(xmas) 
+	-Evil Card(650) 
+		Падает из Evil(Evil Room) 
+	-Изумруд(2) 
+		Можно вырастить из Рафлезии Арнольди 
+	-Рубин(2) 
+		Можно вырастить из Титана Арума
+	
+
+	<i><b>Прочие полезности: </b></i>
+	
+	<font color="COLOR_ITEM_NAME"><b><a href='event:Помятая Коробка'><u><b>Помятая Коробка</b></u></a>(10) </b></font>
+	-Материал Помятая Коробка(45) 
+		Падает из LHZ Defender Type IV(lhz_dun05) 
+	-Синее желе(40) 
+		Падает из Marin(xmas_fild01) 
+	-Яшма(2) 
+		Можно вырастить из Самшита 
+
+	<font color="COLOR_ITEM_NAME"><b><a href='event:Cinza'><u><b>Cinza</b></u></a>(100) </b></font>
+	-Материал 100 Cinza(30) 
+		Падает из Echio(ra_san04) 
+	-Prickly Fruit(85) 
+		Падает из Beholder(ra_san02) 
+	-Песчаник(1) 
+		Можно вырастить из Болотницы Жемчужной
+	
+
+	<i><b>Доступные карты(Падают из мобов и ОКА): </b></i>
+	
+	<font color="COLOR_ITEM_NAME"><b>Tao Gunka Card </b></font>
+	-Материал Tao Gunka Card(15) 
+		Падает из Deathword(tha_t03) 
+	-Nine Tails(90) 
+		Падает из Nine Tail(pay_fild11) 
+	-Кальций(2) 
+		Можно вырастить из Гроздовника 
+
+	<font color="COLOR_ITEM_NAME"><b>Amon Ra Card </b></font>
+	-Материал Amon Ra Card(7) 
+		Падает из Verit(moc_pryd05) 
+	-Spool(25) 
+		Падает из Hylozoist(nif_fild01) 
+
+	<font color="COLOR_ITEM_NAME"><b>Turtle General Card </b></font>
+	-Материал Turtle General Card(10) 
+		Падает из Swordfish(iz_dun03) 
+	-Dragon Skin(1) 
+		Падает из Deleter(mag_dun02) 
+
+	<font color="COLOR_ITEM_NAME"><b>Maya Purple Card </b></font>
+	-Материал Maya Purple Card(7) 
+		Падает из Deniro(anthell01) 
+	-Acorn(20) 
+		Падает из Coco(mjolnir_01) 
+
+	<font color="COLOR_ITEM_NAME"><b>Maya Card </b></font>
+	-Материал Maya Card(7) 
+		Падает из Vitata(anthell02) 
+	-Rainbow Shell(25) 
+		Падает из Stainer(mjolnir_06) 
+
+	<font color="COLOR_ITEM_NAME"><b>Ghostring Card </b></font>
+	-Материал Ghostring Card(10) 
+		Падает из Strouf(iz_dun04) 
+	-Cyfar(77) 
+		Падает из Raggler(cmd_fild02) 
+
+	<font color="COLOR_ITEM_NAME"><b>Deviling Card </b></font>
+	-Материал Deviling Card(10) 
+		Падает из Dimik(jupe_core) 
+	-Stone of Sage(50) 
+		Падает из Shelter(tha_t11) 
+
+	<font color="COLOR_ITEM_NAME"><b>Angeling Card </b></font>
+	-Материал Angeling Card(7) 
+		Падает из Poporing(yuno_fild03) 
+	-Bill of Birds(20) 
+		Падает из Peco Peco(moc_fild06) 
+
+	<font color="COLOR_ITEM_NAME"><b>Kiel Card </b></font>
+	-Материал Kiel Card(7) 
+		Падает из Novus(hu_fild03) 
+	-Материал Kiel Card(7) 
+		Падает из Novus(hu_fild04) 
+	-Maneater Blossom(30) 
+		Падает из Flora(mjolnir_11) 
+
+	<font color="COLOR_ITEM_NAME"><b>RSX 0806 Card </b></font>
+	-Материал RSX 0806 Card(7) 
+		Падает из Horn(mjolnir_09) 
+	-Snail's Shell(30) 
+		Падает из Ambernite(gef_fild09) 
+
+	<font color="COLOR_ITEM_NAME"><b>Whitesmith Card </b></font>
+	-Материал Whitesmith Card(40) 
+		Падает из Seeker(ra_san03) 
+	-Suspicious Hat(67) 
+		Падает из Agav(ra_san05) 
+	-Брусчатка(1) 
+		Можно вырастить из Сандалового Дерева 
+
+	<font color="COLOR_ITEM_NAME"><b>Assassin Cross Card </b></font>
+	-Материал Assassin Cross Card(25) 
+		Падает из Freezer(tur_dun03) 
+	-Worn-out Kimono(90) 
+		Падает из Miyabi Ningyo(ama_dun01) 
+	-Гафний(3) 
+		Можно вырастить из Аронника 
+
+	<font color="COLOR_ITEM_NAME"><b>High Priest Card </b></font>
+	-Материал High Priest Card(7) 
+		Падает из Ancient Mimic(tha_t02) 
+	-Ectoplasm(25) 
+		Падает из Quve(nif_fild01) 
+
+	<font color="COLOR_ITEM_NAME"><b>High Wizard Card </b></font>
+	-Материал High Wizard Card(35) 
+		Падает из Hodremlin(ra_san03) 
+	-Goat Card(29) 
+		Падает из Goat(ein_fild06) 
+	-Берилий(3) 
+		Можно вырастить из Дракеи 
+
+	<font color="COLOR_ITEM_NAME"><b>Eddga Card </b></font>
+	-Материал Eddga Card(7) 
+		Падает из Eggyra(pay_fild07) 
+	-Resin(20) 
+		Падает из Elder Willow(moc_fild03) 
+
+	<font color="COLOR_ITEM_NAME"><b>Phreeoni Card </b></font>
+	-Материал Phreeoni Card(7) 
+		Падает из Greatest General(pay_fild10) 
+	-Skel-Bone(20) 
+		Падает из Thara Frog(beach_dun3) 
+
+	<font color="COLOR_ITEM_NAME"><b>Doppelganger Card </b></font>
+	-Материал Doppelganger Card(7) 
+		Падает из Stainer(mjolnir_06) 
+	-Bee Sting(25) 
+		Падает из Hornet(mjolnir_04) 
+
+	<font color="COLOR_ITEM_NAME"><b>Dracula Card </b></font>
+	-Материал Dracula Card(7) 
+		Падает из Familiar(moc_pryd01) 
+	-Skel-Bone(20) 
+		Падает из Thara Frog(beach_dun3) 
+
+	<font color="COLOR_ITEM_NAME"><b>Orc Hero Card </b></font>
+	-Материал Orc Hero Card(7) 
+		Падает из Megalodon(beach_dun3) 
+	-Raccoon Leaf(20) 
+		Падает из Smokie(pay_fild09) 
+
+	<font color="COLOR_ITEM_NAME"><b>Orc Lord Card </b></font>
+	-Материал Orc Lord Card(7) 
+		Падает из Bigfoot(pay_fild09) 
+	-China(20) 
+		Падает из Peco Peco Egg(moc_fild10)
+	
+	<b>Труднодоступные карты(покупаются или делаются): </b>
+	
+	<font color="COLOR_ITEM_NAME"><b>Ifrit Card </b></font>
+	-Материал Ifrit Card(10) 
+		Падает из Apocalypse(juperos_02) 
+	-Elder Pixie's Moustache(265) 
+		Падает из Giearth(mjo_dun02) 
+	-Травертин(7) 
+		Можно вырастить из Мутении 
+
+	<font color="COLOR_ITEM_NAME"><b>Sword Guardian Card </b></font>
+	-Материал Sword Guardian Card(10) 
+		Падает из Sword Guardian(thor_v03) 
+	-Mutant Dragonoid Card(14) 
+		Падает из Mutant Dragonoid(hu_fild05) 
+	-Травертин(20) 
+		Можно вырастить из Мутении 
+
+	<font color="COLOR_ITEM_NAME"><b>Bow Guardian Card </b></font>
+	-Материал Bow Guardian Card(10) 
+		Падает из Bow Guardian(thor_v03) 
+	-Bloody Edge(45) 
+		Падает из Executioner(c_tower4) 
+	-Травертин(20) 
+		Можно вырастить из Мутении 
+
+	<font color="COLOR_ITEM_NAME"><b>Salamander Card </b></font>
+	-Материал Salamander Card(20) 
+		Падает из Gemini-S58(lhz_dun02) 
+	-Tassel(130) 
+		Падает из Tamruan(ayo_dun02) 
+	-Осмий(6) 
+		Можно вырастить из Гидноры 
+
+	<font color="COLOR_ITEM_NAME"><b>Fallen Bishop Hibram Card </b></font>
+	-Материал Fallen Bishop Hibram Card(20) 
+		Падает из Fireing(gld_dun01) 
+	-Меховые Налапники(4) 
+		Падает из Ward(man_fild01) 
+	-Молибден(34) 
+		Можно вырастить из Аморфофаллуса 
+	-Осмий(7) 
+		Можно вырастить из Гидноры 
+
+	<font color="COLOR_ITEM_NAME"><b>Gloom Under Night Card </b></font>
+	-Материал Gloom Under Night Card(45) 
+		Падает из Gost Munak(arug_dun01) 
+	-Темный Лед(140) 
+		Падает из Dark Icering(man_fild1) 
+	-Яшма(5) 
+		Можно вырастить из Самшита 
+	-Туф(3) 
+		Можно вырастить из Астранции
+	
+	Можна найти:<font color="COLOR_URL"><b>
+		@warp Ro 96 315
+	</b></font>
+	]]></content>
+</data>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<debug value="true"/>
+	<colors>
+		<color name="COLOR_URL" 			value="#55AACC"/>
+		<color name="COLOR_NOT_READY_YET" 	value="#EE9955"/>
+		<color name="COLOR_NOT_PARAMS_YET" 	value="#EE0000"/>
+		<color name="COLOR_NOTE" 			value="#00EE00"/>
+		<color name="COLOR_ITEM_NAME"		value="#FF8855"/>
+		<color name="COLOR_ITEM_PART"		value="#00EE00"/>
+		<color name="COLOR_ITEM_DROPPER" 	value="#5599EE"/>
+	</colors>
+	<texts>
+		<text name="Loading" value="Загрузка.. Пожалуйста подождите."/>
+		<text name="LoadingError" value="Проблемы с заргуркой описания. Вероятнее всего, что компонент ещё не добавлен в базу данных."/>
+		<text name="LoadingPartsError" value="Некоторые части описания не загрузились. Попробуйте ещё раз позже или сообщите о проблеме в поддержку."/>
+	</texts>
+	<types>
+		<type name="Upper Head" 	id="0"/>
+		<type name="Middle Head" 	id="1"/>
+		<type name="Lower Head" 	id="2"/>
+		<type name="Body" 			id="3"/>
+		<type name="Weapon" 		id="4"/>
+		<type name="Shield" 		id="5"/>
+		<type name="Garment" 		id="6"/>
+		<type name="Footgear" 		id="7"/>
+		<type name="Accessory" 		id="8"/>
+		<type name="Quests" 		id="9"/>
+		<type name="NPC" 			id="10"/>
+		<type name="Items" 			id="11"/>
+	</types>
+	<components defaultPathToXML="./items/COMPONENT_TYPE/COMPONENT_NAME/item.xml">
+		<!--<component name="Angel Wings" 				typeId="2" pathToXML="./items/2/Angel Wings/item.xml"/>-->
+		
+		<component name="Afro"						typeId="0"/>
+		<component name="Baby Blue Cap"				typeId="0"/>
+		<component name="Black Lord Kaho's Horns"	typeId="0"/>
+		<component name="Black Ribbon"				typeId="0"/>
+		<component name="Black Valkyrie's Helm"		typeId="0"/>
+		<component name="Blue Lord Kaho's Horns"	typeId="0"/>
+		<component name="Brown Valkyrie's Helm"		typeId="0"/>
+		<component name="Cat'o'Nine Tails Hat" 		typeId="0"/>
+		<component name="Condom Hat" 				typeId="0"/>
+		<component name="Cygnus Helm" 				typeId="0"/>
+		<component name="Deviling Hat" 				typeId="0"/>
+		<component name="DJ Head Set" 				typeId="0"/>
+		<component name="Dragon Helmet" 			typeId="0"/>
+		<component name="Dragon Master Helm" 		typeId="0"/>
+		<component name="Flying Devil" 				typeId="0"/>
+		<component name="Flying Sun" 				typeId="0"/>
+		<component name="Ghostring Hat" 			typeId="0"/>
+		<component name="Golden Crown" 				typeId="0"/>
+		<component name="Green Lord Kaho's Horns" 	typeId="0"/>
+		<component name="Green Valkyrie's Helm" 	typeId="0"/>
+		<component name="Hood of Death" 			typeId="0"/>
+		<component name="Indian Hat" 				typeId="0"/>
+		<component name="Kankuro Hood" 				typeId="0"/>
+		<component name="Kitty Ears" 				typeId="0"/>
+		<component name="Leaf Warrior Hat" 			typeId="0"/>
+		<component name="Majestic Fox King" 		typeId="0"/>
+		<component name="Majestic Fox Queen" 		typeId="0"/>
+		<component name="Maya Hat" 					typeId="0"/>
+		<component name="Rabbit in the Hat" 		typeId="0"/>
+		<component name="Red Lord Kaho's Horns" 	typeId="0"/>
+		<component name="Red Valkyrie's Helm" 		typeId="0"/>
+		<component name="Reindeer Hat" 				typeId="0"/>
+		<component name="Reisz Helmet" 				typeId="0"/>
+		<component name="Sky Helm" 					typeId="0"/>
+		<component name="Sushi Hat" 				typeId="0"/>
+		<component name="True Orc Hero Helm" 		typeId="0"/>
+		<component name="Twin Bunnies" 				typeId="0"/>
+		<component name="Usagimimi Band" 			typeId="0"/>
+		<component name="White Lord Kaho's Horns" 	typeId="0"/>
+		<component name="White Valkyrie's Helm" 	typeId="0"/>
+		<component name="Zelda Link Hat" 			typeId="0"/>
+		
+		
+		<component name="Bride Veil" 	typeId="1"/>
+		<component name="Fox Tail" 		typeId="1"/>
+		<component name="Heart Glasses" typeId="1"/>
+		<component name="Kitty Tail" 	typeId="1"/>
+		<component name="Love Heart" 	typeId="1"/>
+		<component name="Ski Goggles" 	typeId="1"/>
+		<component name="Vip-mask" 		typeId="1"/>
+		
+		
+		<component name="Adventurer's Suit" 		typeId="2"/>
+		<component name="Angel Wings" 				typeId="2"/>
+		<component name="Anti-Collider Wings" 		typeId="2"/>
+		<component name="Archan Rucksack" 			typeId="2"/>
+		<component name="Attacker Wings" 			typeId="2"/>
+		<component name="Blessed Wings" 			typeId="2"/>
+		<component name="Bloody Dragon" 			typeId="2"/>
+		<component name="Blue Swan of Reflection" 	typeId="2"/>
+		<component name="Cave Wings" 				typeId="2"/>
+		<component name="Chemical Wings" 			typeId="2"/>
+		<component name="Cloud Wings" 				typeId="2"/>
+		<component name="Daiguren" 					typeId="2"/>
+		<component name="Dark-red Swan of Reflection" typeId="2"/>
+		<component name="Devil Wings" 				typeId="2"/>
+		<component name="Deviling Rucksack" 		typeId="2"/>
+		<component name="Dragon of Darkness"		typeId="2"/>
+		<component name="Forest Dragon" 			typeId="2"/>
+		<component name="Frozen Dragon" 			typeId="2"/>
+		<component name="Green Swan of Reflection" 	typeId="2"/>
+		<component name="Holy Wings" 				typeId="2"/>
+		<component name="Illusion Wings" 			typeId="2"/>
+		<component name="Killa Wings" 				typeId="2"/>
+		<component name="Looter Wings" 				typeId="2"/>
+		<component name="Lost Wings of Archimage"	typeId="2"/>
+		<component name="Love Wings"				typeId="2"/>
+		<component name="Mala Chopper"				typeId="2"/>
+		<component name="Novice Wings" 				typeId="2"/>
+		<component name="Poisoned Butterfly Wings" 	typeId="2"/>
+		<component name="Poring Rucksack" 			typeId="2"/>
+		<component name="PVM Wings" 				typeId="2"/>
+		<component name="Santa Wings" 				typeId="2"/>
+		<component name="Simply Wings" 				typeId="2"/>
+		<component name="Siroma Wings" 				typeId="2"/>
+		<component name="Spell Ring" 				typeId="2"/>
+		<component name="Thief Wings" 				typeId="2"/>
+		<component name="Vendor's Wings" 			typeId="2"/>
+		<component name="Water Wings" 				typeId="2"/>
+		<component name="Wings of Agility" 			typeId="2"/>
+		<component name="Wings of Angeling" 		typeId="2"/>
+		<component name="Wings of Archangeling" 	typeId="2"/>
+		<component name="Wings of Balance" 			typeId="2"/>
+		<component name="Wings of Destruction" 		typeId="2"/>
+		<component name="Wings of Deviling" 		typeId="2"/>
+		<component name="Wings of Evil Lightning" 	typeId="2"/>
+		<component name="Wings of Ghostring" 		typeId="2"/>
+		<component name="Wings of Healing" 			typeId="2"/>
+		<component name="Wings of Health" 			typeId="2"/>
+		<component name="Wings of Hellfire"			typeId="2"/>
+		<component name="Wings of Luck" 			typeId="2"/>
+		<component name="Wings of Mastering" 		typeId="2"/>
+		<component name="Wings of Mind" 			typeId="2"/>
+		<component name="Wings of Reduction" 		typeId="2"/>
+		<component name="Wings of Serenity" 		typeId="2"/>
+		<component name="Wings of Strong Wind" 		typeId="2"/>
+		<component name="Wizard Beard" 				typeId="2"/>
+		<component name="Yang Wings" 				typeId="2"/>
+		<component name="Крылья Деда Мороза" 		typeId="2"/>
+		
+		
+		<component name="Autumn Coat" 	typeId="3"/>
+		<component name="Spring Coat" 	typeId="3"/>
+		<component name="Summer Coat" 	typeId="3"/>
+		<component name="Зимняя шуба" 	typeId="3"/>
+		
+		
+		<component name="Emperor Butterfly" typeId="4"/>
+		<component name="Fable Axe" 		typeId="4"/>
+		<component name="Fable Book" 		typeId="4"/>
+		<component name="Fable Bow" 		typeId="4"/>
+		<component name="Fable Claw" 		typeId="4"/>
+		<component name="Fable Guitar" 		typeId="4"/>
+		<component name="Fable Gun" 		typeId="4"/>
+		<component name="Fable Jur" 		typeId="4"/>
+		<component name="Fable Knife" 		typeId="4"/>
+		<component name="Fable Pike" 		typeId="4"/>
+		<component name="Fable Shuriken" 	typeId="4"/>
+		<component name="Fable Staff" 		typeId="4"/>
+		<component name="Fable Stiletto" 	typeId="4"/>
+		<component name="Fable Sword" 		typeId="4"/>
+		<component name="Fable Wand" 		typeId="4"/>
+		<component name="Микрофон" 			typeId="4"/>
+		<component name="Табурет" 			typeId="4"/>
+		
+		
+		<component name="Earring of Discernment" 	typeId="8"/>
+		<component name="Lucky Ring" 				typeId="8"/>
+		<component name="Megingjard" 				typeId="8"/>
+		<component name="Ring of Long Live" 		typeId="8"/>
+		<component name="Ring of Mages" 			typeId="8"/>
+		<component name="Ring of Speed" 			typeId="8"/>
+		<component name="Snicky Ring" 				typeId="8"/>
+		
+		
+		
+		<component name="Ленивый мастер" 		typeId="10"/>
+		<component name="Мастер Огня" 			typeId="10"/>
+		<component name="Мастер Оружия" 		typeId="10"/>
+		<component name="Мастер Порингов" 		typeId="10"/>
+		<component name="Проклятый Мастер" 		typeId="10"/>
+		
+		
+		<component name="Cinza" 				typeId="11"/>
+		<component name="Infernum" 				typeId="11"/>
+		<component name="Запасы Гильдии" 		typeId="11"/>
+		<component name="Запасы Лешия" 			typeId="11"/>
+		<component name="Колдовская Коробка" 	typeId="11"/>
+		<component name="Коробка Ведьмы" 		typeId="11"/>
+		<component name="Коробка с Аурами" 		typeId="11"/>
+		<component name="Коробка Семян" 		typeId="11"/>
+		<component name="Лечебные Корешки" 		typeId="11"/>
+		<component name="Подарок!" 				typeId="11"/>
+		<component name="Помятая Коробка" 		typeId="11"/>
+		<component name="Сундучок Мавки" 		typeId="11"/>
+		<component name="Сыр" 					typeId="11"/>
+		<component name="Универсальный Материал" typeId="11"/>
+	</components>
+</data>

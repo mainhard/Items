@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<content><![CDATA[<img align="left" src="./items/COMPONENT_TYPE/COMPONENT_NAME/Fable.png">
+
+
+
+
+
+
+
+
+
+
+
+
+	<b>Adventurers Suit </b>
+	-Материал Adventurers Suit (35) из Isilla (ra_san02) 
+	-White Mask (130) из Vanberk (ra_san01) 
+	-Хлопок (2) можно вырастить из Асфоделины
+	
+	<b>Blue Swan of Reflection </b>
+	-Материал Blue Swan of Reflection (15) из Obeaune (iz_dun02) 
+	-Bee Sting (100) из Hornet (mjolnir_04)
+
+	<b>Dark-red Swan of Reflection </b>
+	-Материал Dark-red Swan of Reflection (15) из Magnolia (moc_fild09) 
+	-Cobweb (90) из Argos (mjolnir_10)
+
+	<b>Green Swan of Reflection </b>
+	-Материал Green Swan of Reflection (15) из Phen (iz_dun03) 
+	-Cactus Needle (90) из Muka (moc_fild18)
+
+	<b>Forest Dragon </b>
+	-Материал Forest Dragon (10) из Venatu (juperos_01) 
+	-Burning Hair (45) из Imp (thor_v01)
+
+	<b>Bloody Dragon </b>
+	-Материал Bloody Dragon (10) из Venatu (juperos_01) 
+	-Flame Heart (44) из Marduk (in_sphinx3)
+
+	<b>Dragon of Darkness </b>
+	-Материал Dragon of Darkness (10) из Venatu (juperos_01) 
+	-Live Coal (44) из Blazer (mag_dun01)
+
+	<b>Frozen Dragon </b>
+	-Материал Frozen Dragon (10) из Venatu (juperos_02) 
+	-Burning Heart (44) из Lava Golem (moc_fild21)
+
+	<b>Illusion Wings </b>
+	-Материал Illusion Wings (30) из Owl Baron (tha_t06) 
+	-Sprout (130) из Parasite (um_fild03) 
+	-Хлопок (3) можно вырастить из Асфоделины
+
+	<b>Wings of Reduction </b>
+	-Материал Wings of Reduction (30) из Империум (hu_fild02) 
+	-Самурайский Меч (67) из Ayame Man (ro2) 
+	-Песчаник (3) можно вырастить из Болотницы Жемчужной
+	
+	
+	Можна найти:<font color="COLOR_URL"><b>
+		@warp thor_v03u 32 55
+	</b></font>
+	]]></content>
+</data>

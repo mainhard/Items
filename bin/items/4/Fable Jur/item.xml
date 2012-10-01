@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<content><![CDATA[<img align="left" src="./items/COMPONENT_TYPE/COMPONENT_NAME/Fable.png">
+
+
+
+
+
+
+
+
+
+
+	
+	Шанс (External Bleeding) во время атаки 0.5% 
+	Отражает 22% от физических атак врага 
+	Dex + 140 
+	Str + 100 
+	Atk + 50*Уровень заточки 
+	При заточке +6 и больше, повреждение Sonic Blow +30% 
+	При заточке +8 и больше, повреждение Grimtooth +40% 
+	Увеличивает повреждения по расе DemiHuman на 2*Уровень заточки% 
+	Увеличивает повреждения от расы DemiHuman на 2*Уровень заточки%
+
+	Класс:Katar 
+	Сила атаки:1000 
+	Вес:1000 
+	Уровень оружия:4 
+	Используется профессиями:Assassin
+	
+	Можна получить:<font color="COLOR_URL"><b>
+	Информация отсутствует
+	</b></font>
+	]]></content>
+</data>

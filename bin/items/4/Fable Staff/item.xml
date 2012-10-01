@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<content><![CDATA[<img align="left" src="./items/COMPONENT_TYPE/COMPONENT_NAME/Fable.png">
+
+
+
+
+
+
+
+
+
+
+	
+	MAtk + 28% 
+	Vit + 300 
+	Dex + 200 
+	Int + 10 
+	Для большинства скиллов не тратятся гемстоны 
+	[Wizard Classes] игнорирование range-защиты врагов 
+	При заточке +5 и больше - сила атаки Magic Crusher% +100% 
+	При заточке +6 и больше - Int + 200 
+	MAtk + 2*Уровень заточки% 
+	Увеличивает повреждения по расе DemiHuman на 2*Уровень заточки% 
+	Увеличивает повреждения от расы DemiHuman на 2*Уровень заточки%
+
+	Класс:Rod 
+	Сила атаки:1000 
+	Вес:100 
+	Уровень оружия:4 
+	Используется профессиями:Mage class, Acolyte class, Soul Linker
+	
+	Можна получить:<font color="COLOR_URL"><b>
+	Информация отсутствует
+	</b></font>
+	]]></content>
+</data>

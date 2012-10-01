@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<content><![CDATA[<img align="right " src="./items/COMPONENT_TYPE/COMPONENT_NAME/Fable.jpg">
+
+
+
+
+
+
+
+
+
+
+
+	Шансы выпадения вещей из Помятой Коробки:
+
+	Yggdrasil Berry		- 100шт, шанс 60% 
+	Yggdrasil Berry		- 200шт, шанс 75% 
+	ggdrasil Berry			- 500шт, шанс 65% 
+	Cinza				- 5шт, шанс 95% 
+	Oridecon 				- 110шт, шанс 47% 
+	Elunium 				- 110шт, шанс 47% 
+	Gold 				- 500шт, шанс 40% 
+	Evil Card 				- 100шт, шанс 60% 
+	Novice Wings +9, 		- шанс 25% 
+	Cotton Shirts +9, 		- шанс 2.5% 
+	Muffler +9, 			- шанс 2.5% 
+	Shoes +9, 			- шанс 2.5% 
+	Main Gauche +9, 		- шанс 2.5% 
+	Guard +9, 			- шанс 2.5% 
+	Hat +9, 				- шанс 2.5% 
+	Cotton Shirts +10, 		- шанс 1.5% 
+	Muffler +10, 			- шанс 1.5% 
+	Shoes +10, 			- шанс 1.5% 
+	Main Gauche +10, 		- шанс 1.5% 
+	Guard +10, 			- шанс 1.5% 
+	Hat +10, 				- шанс 1.5% 
+	Risk Hat, 				- шанс 1% 
+	Infernum, 			- шанс 0.7% 
+	VIP mask, 			- шанс 0.4% 
+	Помятая Коробка 2шт, - шанс 10%
+	
+	Можна получить:<font color="COLOR_URL">
+	<a href='event:Помятая Коробка'><u><b>Помятая Коробка</b></u></a>
+	<a href='event:Сыр'><u><b>Сыр</b></u></a>
+	</font>
+	]]></content>
+</data>

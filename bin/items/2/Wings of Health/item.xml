@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<content><![CDATA[<img align="left" src="./items/COMPONENT_TYPE/COMPONENT_NAME/Fable.png">
+
+
+
+
+
+
+
+
+
+
+	
+	Vit def -95% 
+	Добавляют хп в зависимости от заточенности 
+	Max HP +(6*refine rate)% 
+	При заточке +9: Vit def -96% 
+	При заточке +10: Vit def -98% 
+	При заточке на +10 дают эффект Assumptio
+	
+	Можна получить:<font color="COLOR_URL"><b>
+	Информация отсутствует
+	</b></font>
+	]]></content>
+</data>

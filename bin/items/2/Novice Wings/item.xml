@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<content><![CDATA[<img align="left" src="./items/COMPONENT_TYPE/COMPONENT_NAME/Fable.png">
+
+
+
+
+
+
+
+
+
+
+	
+	Max HP +7000 
+	Max SP +1000 
+	Восстанавливают 444хп каждые 
+	2 секунды
+	
+	Vit def -90%
+	При заточке +5, vit def -91%
+	При заточке +6, vit def -92%
+	При заточке +7, vit def -93%
+	При заточке +8, vit def -94%
+	При заточке +9, vit def -95%
+	При заточке +10, vit def -96%
+	
+	Можна получить:<font color="COLOR_URL"><b>
+	<a href='event:Помятая Коробка'><u>Помятая Коробка</u></a>
+	</b></font>
+	]]></content>
+</data>

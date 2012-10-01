@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<content><![CDATA[<img align="left" src="./items/COMPONENT_TYPE/COMPONENT_NAME/Fable.png">
+
+
+
+
+
+
+
+
+
+
+
+
+	<b>Mastering Wings </b>
+	-Материал Mastering Wings (20) 	из Ygnizem (lhz_dun02) 
+	-Spring Rabbit Card (20) 	из Spring Rabbit (tur_dun01) 
+	-Туф (3) 	можно вырастить из Астранции
+	
+	<b>Archangeling Wings </b>
+	-Материал Archangeling Wings (20) 	из Whikebain (lhz_dun02) 
+	-Megalith Card (20) 	из Megalith (beach_dun2) 
+	-Туф (3) 	можно вырастить из Астранции
+
+	<b>Ghostring Wings </b>
+	-Материал Ghostring Wings (20) 	из Rawrel (lhz_dun02) 
+	-Stalactic Golem Card (20) 	из Stalactic Golem (beach_dun2) 
+	-Туф (3) 	можно вырастить из Астранции
+
+	<b>Deviling Wings </b>
+	-Материал Deviling Wings (20) 	из Megalith (lhz_dun02) 
+	-Manacles (110) 	из Cruiser (xmas_dun02) 
+	-Туф (3) 	можно вырастить из Астранции
+
+	<b>Siroma Wings </b>
+	-Материал Siroma Wings (20) 	из Siroma (ice_dun01) 
+	-Old Shuriken (45) 	из Assaulter (tur_dun04) 
+	-Туф (3) 	можно вырастить из Астранции
+
+	<b>Santa Wings </b>
+	-Материал Santa Wings (45) 	из Santa Poring (xmas_dun03) 
+	-Пиратская Повязка (60) 	из Piratering (spl_fild02) 
+	-Яшма (5) 	можно вырастить из Самшита 
+	-Туф (4) 	можно вырастить из Астранции
+
+	<b>Mala Chopper </b>
+	-Материал Mala Chopper (30) 	из Элементаль Ветров (aru_gld) 
+	-Пурпурная Скорлупа (45) 	из Purple Picky Egg (cmd_field) 
+	-Дерево (1) 	можно вырастить из Ярры 
+	-Туф (1) 	можно вырастить из Астранции
+
+	<b>Deviling Rucksack </b>
+	-Материал Deviling Rucksack (30) 	из Элементаль Земли (prt_gld) 
+	-Зеленая Скорлупа (45) 	из Green Picky Egg (cmd_field) 
+	-Дерево (1) 	можно вырастить из Ярры 
+	-Туф (1) 	можно вырастить из Астранции
+
+	<b>Archan Rucksack </b>
+	-Материал Archan Rucksack (30) 	из Элементаль Огня (sch_gld) 
+	-Красная Скорлупа (45) 	из Red Picky Egg (cmd_field) 
+	-Дерево (1) 	можно вырастить из Ярры 
+	-Туф (1) 	можно вырастить из Астранции
+
+	<b>Poring Rucksack </b>
+	-Материал Poring Rucksack (30) 	из Элементаль Воды (alde_gld) 
+	-Синяя Скорлупа (45) 	из Blue Picky Egg (cmd_field) 
+	-Дерево (1) 	можно вырастить из Ярры 
+	-Туф (1) 	можно вырастить из Астранции
+	
+	
+	Можна найти:<font color="COLOR_URL"><b>
+		@warp cr_mbevent 72 26
+	</b></font>
+	]]></content>
+</data>
